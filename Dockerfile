@@ -1,4 +1,4 @@
-From bellsoft/liberica-runtime-container:jre-17-musl
+From bellsoft/liberica-runtime-container:jre-11-musl
 
 # Update
 RUN apk update && apk upgrade
